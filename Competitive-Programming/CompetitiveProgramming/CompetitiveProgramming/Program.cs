@@ -10,11 +10,7 @@ namespace CompetitiveProgramming
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Question 1");
-            int[] ArrayForExample = { 2, 3, 1, 0, 2, 5, 3, 8, 7 };
-            ArryQuestion1 cheek = new ArryQuestion1();
-            int DuplecateNumber = cheek.Duplecate(ArrayForExample);
-            Console.WriteLine("the duplicate number is : " + DuplecateNumber);
+            // Before each question there is a main example matched to the same question, copy it here
         }
     }
 }

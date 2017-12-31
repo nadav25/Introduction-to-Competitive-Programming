@@ -6,6 +6,20 @@ using System.Threading.Tasks;
 
 namespace CompetitiveProgramming
 {
+    //---------------------Example--------------------
+    //class Program 
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        Console.WriteLine("Question 1");
+    //        int[] ArrayForExample = { 2, 3, 1, 0, 2, 5, 3, 8, 7 };
+    //        ArryQuestion1 cheek = new ArryQuestion1();
+    //        int DuplecateNumber = cheek.Duplecate(ArrayForExample);
+    //        Console.WriteLine("the duplicate number is : " + DuplecateNumber);
+    //    }
+    //}
+
+
     /// <summary>
     /// An array contains n numbers ranging from 0 to n-1. There are some numbers duplicated in the
     /// array.It is not clear how many numbers are duplicated or how many times a number gets duplicated.How do you
