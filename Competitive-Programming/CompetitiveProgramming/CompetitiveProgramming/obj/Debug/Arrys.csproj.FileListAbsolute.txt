@@ -1,0 +1,6 @@
+C:\Users\Nadav\Desktop\GitHub\Competitive-Programming\CompetitiveProgramming\CompetitiveProgramming\bin\Debug\CompetitiveProgramming.exe.config
+C:\Users\Nadav\Desktop\GitHub\Competitive-Programming\CompetitiveProgramming\CompetitiveProgramming\bin\Debug\CompetitiveProgramming.exe
+C:\Users\Nadav\Desktop\GitHub\Competitive-Programming\CompetitiveProgramming\CompetitiveProgramming\bin\Debug\CompetitiveProgramming.pdb
+C:\Users\Nadav\Desktop\GitHub\Competitive-Programming\CompetitiveProgramming\CompetitiveProgramming\obj\Debug\Arrys.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Desktop\GitHub\Competitive-Programming\CompetitiveProgramming\CompetitiveProgramming\obj\Debug\CompetitiveProgramming.exe
+C:\Users\Nadav\Desktop\GitHub\Competitive-Programming\CompetitiveProgramming\CompetitiveProgramming\obj\Debug\CompetitiveProgramming.pdb
