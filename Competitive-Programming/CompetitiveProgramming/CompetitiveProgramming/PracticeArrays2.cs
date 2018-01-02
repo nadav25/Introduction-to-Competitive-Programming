@@ -6,26 +6,26 @@ using System.Threading.Tasks;
 
 namespace CompetitiveProgramming
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("----------Question 2----------");
-            int[,] arr = { { 1, 4, 8 }, {11,12,15 } , { 20,25,27 }};
-            PracticeArrays2 examination = new PracticeArrays2();
-            Console.WriteLine("pleese enter number to serch in mat");
-            int serch = int.Parse(Console.ReadLine());
-            bool Exists = examination.FindInMat(arr, serch);
-            if(Exists == true)
-            { 
-                Console.WriteLine($"the number {serch} is Exists the mat");
-            }
-            else
-            {
-                Console.WriteLine($"the number {serch} is not Exists in the mat ");
-            }
-        }
-    }
+    //class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        Console.WriteLine("----------Question 2----------");
+    //        int[,] arr = { { 1, 4, 8 }, {11,12,15 } , { 20,25,27 }};
+    //        PracticeArrays2 examination = new PracticeArrays2();
+    //        Console.WriteLine("pleese enter number to serch in mat");
+    //        int serch = int.Parse(Console.ReadLine());
+    //        bool Exists = examination.FindInMat(arr, serch);
+    //        if(Exists == true)
+    //        { 
+    //            Console.WriteLine($"the number {serch} is Exists the mat");
+    //        }
+    //        else
+    //        {
+    //            Console.WriteLine($"the number {serch} is not Exists in the mat ");
+    //        }
+    //    }
+    //}
 
     /// <summary>
     /// In a 2-D matrix, every row is increasingly sorted from left to right, and the last number in each
